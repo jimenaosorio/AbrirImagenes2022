@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbrirImagenes2022", "AbrirImagenes2022\AbrirImagenes2022.csproj", "{A54EDD74-8897-4A3A-BAB8-56D6B0E02785}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A54EDD74-8897-4A3A-BAB8-56D6B0E02785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54EDD74-8897-4A3A-BAB8-56D6B0E02785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54EDD74-8897-4A3A-BAB8-56D6B0E02785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54EDD74-8897-4A3A-BAB8-56D6B0E02785}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03DA3F9B-1A2B-41A8-976D-DB43A8B8715D}
+	EndGlobalSection
+EndGlobal
